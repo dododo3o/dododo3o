@@ -1,0 +1,1 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFe4e1,100:F5F5dc&text=김현정&animation=twinkling&fontColor=444444&fontSize=40&fontAlign=50&fontAlignY=43&descSize=25&desc=생각을 나누는 사람&descAlign=50&descAlignY=75)
